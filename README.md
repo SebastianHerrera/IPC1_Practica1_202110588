@@ -1,2 +1,3 @@
-# Practica1
-Repositorio para práctica 1.
+Geovanny Sebastián Herrera Claudio
+202110588
+IPC1 D
